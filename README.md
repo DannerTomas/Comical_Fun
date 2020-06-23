@@ -12,7 +12,7 @@ Just enable it and enjoy it
 ## About Keybind
 U Fucker Bed
 
-T AsTower
+T Tower
 
 R KillAura
 
@@ -26,3 +26,16 @@ I Regen
 
 B Spammer   (In Chinese)
 
+F Speed
+
+Z HighJump
+
+X No Velocity
+
+L AutoSpeak
+
+M NM$L
+
+Y AirJump
+
+If you meet other hackers, please hold down the space and right mouse button in place after the killing.
