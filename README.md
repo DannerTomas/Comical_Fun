@@ -1,6 +1,7 @@
 # Comical Fun
 A liquidbounce's config. I just want to bypass some Chinese server XD but not hypixel or Netease-hyt.
-##Attention: In the next version, we will turn to develop the LiquidBounce 1.12.2 config because Netease-Hyt's update. You can get Comical Fun 1.8 Config B7 in releases.
+
+## Attention: In the next version, we will turn to develop the LiquidBounce 1.12.2 config because Netease-Hyt's update. You can get Comical Fun 1.8 Config B7 in releases.
 
 ## How does it work?
 Just download them and put them into a folder named "LiquidBounce-1.8",then move this folder into your minecraft core folder(./minecraft).
